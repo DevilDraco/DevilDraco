@@ -1,5 +1,11 @@
-<h1 align="center">Hey 👋, I'm Devil Draco</h1>
-<h3 align="center">⚡ Developer | Linux Enthusiast | Builder of Cool Stuff</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=DevilDraco&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Vishok-2006">
+
+  </a>
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=FF0000&center=true&vCenter=true&width=600&lines=Code+Like+a+Devil;Linux+Power+User;Building+From+Scratch;Always+Exploring+🔥">
@@ -50,15 +56,10 @@
 
 
 
-## 🚀 Featured Work
 
-### 🔷 Custom Linux Work
-⚡ Exploring kernel configs, bootloaders & system tuning  
-🛠️ Focus: Performance, minimal setups, customization  
 
-### 🔥 Backend & System Projects
-💻 APIs, scripts & system-level tools  
-🛠️ Tech: Node.js, Python, Bash  
+![Top language](https://stats.pphat.top/languages?username=DevilDraco-Phoenix)
+<br/>
 
 
 
@@ -72,19 +73,25 @@
 ```
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vishok-2006&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vishok-2006&theme=tokyonight&hide_border=true" height="150"/>
+  <a href="https://github.com/DevilDraco-Phoenix">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DevilDraco-Phoenix&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="DevilDraco-Phoenix's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=DevilDraco-Phoenix&theme=dracula&hide_border=true&cache_seconds=86400" alt="DevilDraco-Phoenix's GitHub Streak" width="49%" />
 </p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=DevilDraco-Phoenix&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="DevilDraco's GitHub Trophies" />
+</p>
+
+
 
 
 
 ## 🔥 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevilDraco-Phoenix&theme=tokyo-night&hide_border=true"/>
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=DevilDraco-Phoenix&theme=dracula&radius=10" alt="DevilDraco-Phoenix's Activity Graph" />
 </p>
-
 
 
 
