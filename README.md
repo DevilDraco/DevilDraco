@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=FF0000&center=true&vCenter=true&width=600&lines=Code+Like+a+Devil;Linux+Power+User;Building+From+Scratch;Always+Exploring+🔥">
 </p>
 
----
 
 ## 🧑‍💻 About Me
 * 🧠 Passionate about **low-level systems & Linux**
@@ -14,7 +13,6 @@
 * 🚀 Building projects from **scratch to production**
 * 🎯 Goal: Master **System Programming & Full Stack Development**
 
----
 
 ## 🌐 Connect With Me
 <p align="center">
@@ -32,7 +30,6 @@
   </a>
 </p>
 
----
 
 ## ⚒️ Tech Stack
 <p align="center">
@@ -51,7 +48,7 @@
 
 </p>
 
----
+
 
 ## 🚀 Featured Work
 
@@ -63,7 +60,7 @@
 💻 APIs, scripts & system-level tools  
 🛠️ Tech: Node.js, Python, Bash  
 
----
+
 
 ## 💡 What I Focus On
 
@@ -74,21 +71,21 @@
 + Automation & Scripting
 ```
 
----
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vishok-2006&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Vishok-2006&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
----
+
 
 ## 🔥 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevilDraco-Phoenix&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
+
 
 
 ## ✨ Quote of the Day
@@ -96,6 +93,5 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
----
 
 <h3 align="center">⚡ Hack. Build. Break. Repeat. ⚡</h3>
