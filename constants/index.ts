@@ -45,7 +45,7 @@ export const SOCIALS = [
   {
     name: "GitHub",
     icon: RxGithubLogo,
-    link: "https://github.com/DevilDraco-Phoenix",
+    link: "https://github.com/DevilDraco",
   },
  
 ] as const;
@@ -212,7 +212,7 @@ export const FOOTER_DATA = [
        {
         name: "GitHub",
         icon: RxGithubLogo,
-        link: "https://github.com/DevilDraco-Phoenix",
+        link: "https://github.com/DevilDraco",
       },
       {
         name: "Discord",
@@ -240,7 +240,7 @@ export const FOOTER_DATA = [
       {
         name: "Learning about me",
         icon: null,
-        link: "https://github.com/DevilDraco-Phoenix",
+        link: "https://github.com/DevilDraco",
       },
      {
   name: "Contact Me",
@@ -267,5 +267,5 @@ export const NAV_LINKS = [
 ] as const;
 
 export const LINKS = {
-  sourceCode: "https://github.com/sanidhyy/space-portfolio",
+  sourceCode: "https://github.com/DevilDraco/DevilDraco.git",
 };
