@@ -75,13 +75,13 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/DevilDraco-Phoenix">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DevilDraco-Phoenix&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="DevilDraco-Phoenix's GitHub Stats" />
+  <a href="https://github.com/DevilDraco">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DevilDraco&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="DevilDraco's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=DevilDraco-Phoenix&theme=dracula&hide_border=true&cache_seconds=86400" alt="DevilDraco-Phoenix's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=DevilDraco&theme=radical&hide_border=true&cache_seconds=86400" alt="DevilDraco's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=DevilDraco-Phoenix&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="DevilDraco's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=DevilDraco&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="'s GitHub Trophies" />
 </p>
 
 
