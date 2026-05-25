@@ -1,10 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=DevilDraco&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Vishok-2006">
-
-  </a>
-</p>
 
 
 <p align="center">
@@ -57,8 +52,14 @@
 
 
 
+## 🛠️ Languages
+<p align="center">
+  <a href="https://github.com/DevilDraco">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DevilDraco&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
-![Top language](https://stats.pphat.top/languages?username=DevilDraco-Phoenix)
+![Top language](https://stats.pphat.top/languages?username=DevilDraco)
 <br/>
 
 
