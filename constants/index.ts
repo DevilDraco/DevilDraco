@@ -3,7 +3,6 @@ import {
   RxDiscordLogo,
   RxGithubLogo,
   RxInstagramLogo,
-  RxTwitterLogo,
   RxLinkedinLogo,
 } from "react-icons/rx";
 
@@ -40,12 +39,12 @@ export const SOCIALS = [
   {
     name: "Instagram",
     icon: RxInstagramLogo,
-    link: "https://www.instagram.com/devil_draco_the_phoenix",
+    link: "https://www.instagram.com/vishok._143",
   },
   {
     name: "GitHub",
     icon: RxGithubLogo,
-    link: "https://github.com/DevilDraco",
+    link: "https://github.com/Vishok-2006",
   },
  
 ] as const;
@@ -172,13 +171,7 @@ export const OTHER_SKILL: {
 
 
 export const PROJECTS = [
-  {
-    title: "ChainDrive",
-    description:
-      "A blockchain-powered decentralized storage and file management platform focused on secure and transparent data handling.",
-    image: "chaindrive.png",
-      link: "https://github.com/Vishok-2006/ChainDrive.git",
-  },
+ 
 
   {
     title: "Vector Project",
@@ -212,7 +205,7 @@ export const FOOTER_DATA = [
        {
         name: "GitHub",
         icon: RxGithubLogo,
-        link: "https://github.com/DevilDraco",
+        link: "https://github.com/Vishok-2006",
       },
       {
         name: "Discord",
@@ -227,7 +220,7 @@ export const FOOTER_DATA = [
        {
     name: "Instagram",
     icon: RxInstagramLogo,
-    link: "https://www.instagram.com/devil_draco_the_phoenix",
+    link: "https://www.instagram.com/vishok._143",
   },
      
    
@@ -240,12 +233,12 @@ export const FOOTER_DATA = [
       {
         name: "Learning about me",
         icon: null,
-        link: "https://github.com/DevilDraco",
+        link: "https://github.com/Vishok-2006",
       },
      {
   name: "Contact Me",
   icon: null,
-  link: "https://mail.google.com/mail/?view=cm&fs=1&to=devildraco969@gmail.com",
+  link: "https://mail.google.com/mail/?view=cm&fs=1&to=pvishok969@gmail.com",
 },
     ],
   },
@@ -267,5 +260,5 @@ export const NAV_LINKS = [
 ] as const;
 
 export const LINKS = {
-  sourceCode: "https://github.com/DevilDraco/DevilDraco.git",
+  sourceCode: "https://github.com/Vishok-2006/Vishok-2006.git",
 };

@@ -18,14 +18,14 @@ export const HeroContent = () => {
       className="flex flex-row items-center justify-center px-20 mt-40 w-full z-[20]"
     >
       <div className="h-full w-full flex flex-col gap-5 justify-center m-auto text-start">
-        
         <motion.div
           variants={slideInFromTop}
           className="Welcome-box py-[8px] px-[7px] border border-[#7042f88b] opacity-[0.9]"
         >
           <SparklesIcon className="text-[#b49bff] mr-[10px] h-5 w-5" />
+
           <h1 className="Welcome-text text-[13px]">
-            AI • Linux • Blockchain
+            AI Developer • Linux Enthusiast • Blockchain Explorer
           </h1>
         </motion.div>
 
@@ -38,18 +38,19 @@ export const HeroContent = () => {
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
               AI-Powered
             </span>{" "}
-            Systems & Secure Linux Based Solutions
+            Systems & Secure Linux Solutions
           </span>
         </motion.div>
-<motion.p
-  variants={slideInFromLeft(0.8)}
-  className="text-lg text-gray-400 my-5 max-w-[650px]"
->
-  Developer behind the DevilDraco Phoenix identity, focused on
-  AI systems, blockchain technology, and Linux-based
-  environments. Building futuristic applications with automation,
-  performance, and real-world usability in mind.
-</motion.p>
+        <motion.p
+          variants={slideInFromLeft(0.8)}
+          className="text-lg text-gray-400 my-5 max-w-[650px]"
+        >
+          Hi, I'm Vishok — a developer passionate about AI systems, blockchain
+          technology, and Linux-based environments. I build intelligent,
+          scalable, and real-world applications focused on automation,
+          performance, and usability, with a strong interest in futuristic
+          technologies and problem-solving.
+        </motion.p>
         <motion.a
           href="https://drive.google.com/file/d/1OT_sD_eZf5DawPdvui4nuvkv4OE8NCsS/view?usp=drive_link"
           target="_blank"

@@ -38,7 +38,7 @@ export const Footer = () => {
 
         {/* Bottom Line */}
         <div className="border-t border-[#2A0E61] mt-10 pt-5 text-center text-sm text-gray-500">
-          © {new Date().getFullYear()} DevilDraco. All rights reserved.
+          © {new Date().getFullYear()} Vishok. All rights reserved.
         </div>
       </div>
     </footer>
